@@ -1,5 +1,15 @@
-## Hi there 👋
 
+👋 Hi, I'm a tech-driven professional with over 3 years of experience designing intelligent systems and extracting insights from data to drive innovation. My work bridges the gap between data analysis, machine learning, and software development, enabling me to deliver impactful, end-to-end solutions across fintech, healthcare, and education.
+
+💡 With a foundation in data analytics and statistical modeling, I’ve conducted in-depth analyses to support business decisions, engineered scalable ETL pipelines on AWS (Glue, Redshift, Lambda), and developed machine learning models.
+
+🎓 I recently completed my Master’s in Data Analytics Engineering at Northeastern University, where I deepened my expertise in computer vision and ML deployment. I enjoy solving problems that require both strong engineering foundations and a deep understanding of data. Whether it’s integrating complex data sources, training predictive models, or visualizing insights through interactive dashboards, I’m committed to building solutions that scale and make a difference.
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sabeen-mustafa/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabeenmustafa14@gmail.com)
+
+---
 <!--
 **sabeenmustafa/sabeenmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
